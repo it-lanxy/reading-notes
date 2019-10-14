@@ -1,4 +1,4 @@
-package geek.lanxy.jvm;
+package geek.lanxy.jvm.gc;
 
 /**
  * @author: lanxinyu@xiaomi.com

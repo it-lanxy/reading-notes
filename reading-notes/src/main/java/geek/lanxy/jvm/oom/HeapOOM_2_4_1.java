@@ -1,4 +1,4 @@
-package geek.lanxy.jvm;
+package geek.lanxy.jvm.oom;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,6 +9,8 @@ import org.junit.jupiter.api.Test;
  * @author: lanxinyu@xiaomi.com
  *
  * @create: 2019-09-04
+ *
+ *          Java堆内存溢出异常测试
  *
  * @describe: VM args: -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
  *            -XX:HeapDumpPath=/Users/it_lanxy/JavaSpace/Lanxy/reading-notes/reading-notes/src/main/java/geek/lanxy/jvm/HeapOOM_2_4_1.hprof
